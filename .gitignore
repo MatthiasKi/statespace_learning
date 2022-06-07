@@ -1,0 +1,9 @@
+*.npy
+*.p
+*.pickle
+*.pyc 
+
+data/
+datasets/
+results/
+__pycache__/

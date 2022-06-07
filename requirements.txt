@@ -1,0 +1,8 @@
+numpy
+torch
+scikit-learn
+six
+pandas
+keras
+tensorflow
+git+https://github.com/MatthiasKi/tvsclib
